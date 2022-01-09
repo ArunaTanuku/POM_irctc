@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 6.794 s <<< FAILURE! - in TestSuite
+pom.testcases.pom_tc1.beforeMethod  Time elapsed: 5.498 s  <<< FAILURE!
+java.lang.NullPointerException
+
