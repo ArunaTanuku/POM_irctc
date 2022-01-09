@@ -58,6 +58,8 @@ public class GenericWrappers extends GenericHTMLReport implements Wrappers{
 			}else if(browser.equalsIgnoreCase("ie")) {
 				System.setProperty("webdriver.ie.driver", folderpath+"");
 				 driver = new InternetExplorerDriver();
+				 
+				 
 			}
 			
 			driver.manage().window().maximize();
